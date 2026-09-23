@@ -145,8 +145,6 @@ The Networkwalks Hash Calculator provides a dedicated PDF option. It processes t
 
 ![Hash Calculator tool homepage](hash_calculator.png)
 
-![Online hash tool interface](online-hash.png)
-
 I uploaded the first sample PDF. The tool identified the file as encrypted and generated the corresponding hash together with information such as the revision, version, and key length.
 
 ![Uploading PDF1 into the Hash Calculator](upload_pdf1_in_calculator.png)
@@ -190,8 +188,6 @@ To verify that the workflow was repeatable, I performed the same extraction and 
 ### PDF2
 
 ![Uploading PDF2 to the Hash Calculator](upload_psf2_in_hash_calculator.png)
-
-![PDF2 hash value extracted](pdf2_hash_value.png)
 
 ![PDF2 password found](pdf2_password_fond.png)
 
